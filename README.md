@@ -61,6 +61,10 @@ This repository showcases a collection of interactive dashboards I designed in *
 - Outcomes: Data storytelling, insight generation, stakeholder-ready dashboards  
 
 ---
+## Refernces
+- https://www.youtube.com/watch?v=i3AR0gt9SHA&t=11s
+- https://www.youtube.com/watch?v=wSfyBw1rlJ4
+- https://www.youtube.com/watch?v=6oFTdbrugUs
 
 ## 📬 Contact
 **Sri Gayathri Sahithi Morapakala**  
