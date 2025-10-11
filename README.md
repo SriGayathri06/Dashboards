@@ -1,5 +1,11 @@
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" alt="Tableau" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" title="Power BI"/>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visualization-Tableau-blue"/>
+  <img src="https://img.shields.io/badge/Dashboard-Power%20BI-yellow"/>
 </p>
 
 # 📊 Data Visualization Portfolio – Dashboards by Sri Gayathri Sahithi Morapakala
