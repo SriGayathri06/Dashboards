@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" alt="Tableau" title="Tableau"/>
+</p>
+
 # 📊 Data Visualization Portfolio – Dashboards by Sri Gayathri Sahithi Morapakala
 
 This repository showcases a collection of interactive dashboards I designed in **Tableau** and **Power BI**, highlighting my ability to transform raw datasets into actionable insights. Each dashboard emphasizes **business value, storytelling, and technical depth** — reflecting how I bridge data engineering and analytics to deliver decision-ready insights.
